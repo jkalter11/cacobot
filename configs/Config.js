@@ -1,7 +1,7 @@
 {
     "token" : "Place your application token here.",
     "client_id" : "Place your application client ID here.",
-    "owner_id" : "Place your Discord ID here. Use .myid to get it with the bot.",
+    "kingjlk#4024" : "Place your Discord ID here. Use .myid to get it with the bot.",
     "invoker" : "Place the character or line you want to invoke CB commands. Base CacoBot's is '.'",
     "log_request_limit" : 50,
     "games" : [
