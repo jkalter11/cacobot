@@ -21,7 +21,7 @@
     },
     "pastebin_key" : "Get a Pastebin key from http://pastebin.com/api and put it here. We use it to post the tag list to Pastebin.",
     "git": {
-        "repo_author" : "Orangestar12",
+        "repo_author" : "jkalter11",
         "repo_name" : "cacobot",
         "comment" : "Replace these with your GitHub username and forked CacoBot repo name, or leave them to pull latest changes and source from the default."
     }
