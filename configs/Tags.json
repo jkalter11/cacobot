@@ -1,1 +1,13 @@
 
+{
+  "orangestars-tag": {
+      "tag": "This tag belongs to Orangestar in the CacoServer server!",
+      "server": "128043020418285568",
+      "owner": "88401933936640000"
+  },
+  "nobodys-tag": {
+      "tag": "This is an orphaned tag, and anyone can claim it!",
+      "server": "None",
+      "owner": "None"
+  }
+}
