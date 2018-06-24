@@ -1,5 +1,5 @@
 {
-    "token" : "Place your application token here.",
+    "NDYwNDcyOTk3ODYyNTcyMDMy.DhFcNQ.0tlM5J1KPGhtRaPfX0sDSSJugm8" : "Place your application token here.",
     "460472997862572032" : "Place your application client ID here.",
     "kingjlk#4024" : "Place your Discord ID here. Use .myid to get it with the bot.",
     "invoker" : "Place the character or line you want to invoke CB commands. Base CacoBot's is '.'",
